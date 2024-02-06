@@ -1,0 +1,122 @@
+[
+    {
+        "id": "cafe-01",
+        "titulo": "Café Espresso",
+        "imagen": "./img/cafecaliente/01.jpg",
+        "categoria": {
+            "nombre": "Café Caliente",
+            "id": "CafeC"
+        },
+        "precio": 500
+    },
+    {
+        "id": "cafe-02",
+        "titulo": "Café Latte",
+        "imagen": "./img/cafecaliente/02.jpg",
+        "categoria": {
+            "nombre": "Café Caliente",
+            "id": "CafeC"
+        },
+        "precio": 800
+    },
+    {
+        "id": "cafe-03",
+        "titulo": "Café Mocca",
+        "imagen": "./img/cafecaliente/03.jpg",
+        "categoria": {
+            "nombre": "Café Caliente",
+            "id": "CafeC"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cafe-04",
+        "titulo": "Café Americano",
+        "imagen": "./img/cafecaliente/04.jpg",
+        "categoria": {
+            "nombre": "Café Caliente",
+            "id": "CafeC"
+        },
+        "precio": 400
+    },
+    {
+        "id": "frio-01",
+        "titulo": "Frappe Helado",
+        "imagen": "./img/cafefrio/01.jpg",
+        "categoria": {
+            "nombre": "Café Frio",
+            "id": "CafeF"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "frio-02",
+        "titulo": "Dalgona Helado",
+        "imagen": "./img/cafefrio/02.jpg",
+        "categoria": {
+            "nombre": "Café Frio",
+            "id": "CafeF"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "frio-03",
+        "titulo": "Milkshake",
+        "imagen": "./img/cafefrio/03.jpg",
+        "categoria": {
+            "nombre": "Café Frio",
+            "id": "CafeF"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "frio-04",
+        "titulo": "Mocca Helado",
+        "imagen": "./img/cafefrio/04.jpg",
+        "categoria": {
+            "nombre": "Café Frio",
+            "id": "CafeF"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "infu-01",
+        "titulo": "Té Negro",
+        "imagen": "./img/infusiones/01.jpg",
+        "categoria": {
+            "nombre": "Infusiones",
+            "id": "Infu"
+        },
+        "precio": 200
+    },
+    {
+        "id": "infu-02",
+        "titulo": "Té de Manzanilla",
+        "imagen": "./img/infusiones/02.jpg",
+        "categoria": {
+            "nombre": "Infusiones",
+            "id": "Infu"
+        },
+        "precio": 300
+    },
+    {
+        "id": "infu-03",
+        "titulo": "Té de Tilo",
+        "imagen": "./img/infusiones/03.jpg",
+        "categoria": {
+            "nombre": "Infusiones",
+            "id": "Infu"
+        },
+        "precio": 200
+    },
+    {
+        "id": "infu-04",
+        "titulo": "Té de Frutos del Bosque",
+        "imagen": "./img/infusiones/04.jpg",
+        "categoria": {
+            "nombre": "Infusiones",
+            "id": "Infu"
+        },
+        "precio": 500
+    }
+]
